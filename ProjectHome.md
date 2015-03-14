@@ -1,0 +1,2 @@
+- Compressing your files (attachment,document), so they consume less your file storage (normally, you ONLY get 1G file storage from Salesforce).
+- Extending your 'Long Text Field' limit, so it can hold far more than 32000 text in one field.
